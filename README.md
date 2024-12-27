@@ -35,7 +35,7 @@ The code is available for exploration on GitHub. Dive in, dissect the code, and 
 
 ## Screenshots
 
-![Screenshot 1](screenshots/1.jpeg)
+![Screenshot 1](![1](https://github.com/user-attachments/assets/7f814964-5944-4277-83fe-9506bbd6670c))
 ![Screenshot 2](screenshots/2.jpeg)
 
 ---
